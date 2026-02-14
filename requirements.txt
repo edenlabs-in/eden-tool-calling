@@ -1,0 +1,6 @@
+gradio
+groq
+fastapi
+uvicorn
+requests
+fastmcp
